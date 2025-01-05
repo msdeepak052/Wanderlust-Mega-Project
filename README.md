@@ -255,6 +255,7 @@ sudo apt-get install trivy -y
   - <b>Access it on browser, click on advance and proceed with</b>
   ```bash
   <public-ip-worker>:<port>
+  18.209.32.75:32012
   ```
   ![image](https://github.com/user-attachments/assets/29d9cdbd-5b7c-44b3-bb9b-1d091d042ce3)
   ![image](https://github.com/user-attachments/assets/08f4e047-e21c-4241-ba68-f9b719a4a39a)
