@@ -527,3 +527,4 @@ eksctl delete cluster --name=wanderlust --region=us-west-1
 ```
 
 #
+## To stop Autoscaling, go to autoscaling, edit and write 0 in minimum instance and 0 in desired instance. And again edit to 2 where ever you want to start the instance.
