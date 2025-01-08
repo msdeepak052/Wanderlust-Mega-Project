@@ -531,5 +531,6 @@ eksctl delete cluster --name=wanderlust --region=us-west-1
 
 When ever you start again the instances, make sure you run below commands on Master Instance - Automate
 - docker start <container_id>
+Example - docker start SonarQube-Server
 - sudo usermod -aG docker ubuntu && newgrp docker
 - sudo chmod 666 /var/run/docker.sock
