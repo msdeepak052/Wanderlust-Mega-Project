@@ -1,11 +1,11 @@
 variable "aws_region" {
   description = "AWS region where resources will be provisioned"
-  default     = "us-east-1"
+  default     = "ap-south-1"
 }
 
 variable "ami_id" {
   description = "AMI ID for the EC2 instance"
-  default     = "ami-0e2c8caa4b6378d8c"
+  default     = "ami-023a307f3d27ea427"
 }
 
 variable "instance_type" {
