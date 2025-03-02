@@ -3,7 +3,9 @@
 WanderLust is a simple MERN travel blog website ✈ This project is aimed to help people to contribute in open source, upskill in react and also master git.
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
-#
+#To create SSH key 2048
+
+ssh-keygen -t rsa -b 2048 -f /mnt/d/Study/Projects/WanderLust/Wanderlust-Mega-Project/terraform/terra-key -C "yadav.deepak012@gmail.com"
 
 # Wanderlust Mega Project End to End Implementation
 
